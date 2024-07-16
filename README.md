@@ -28,6 +28,10 @@ This repo provides a YOLOv8 model, finely trained for detecting human heads in c
 Download the CrowdDataset from [https://www.crowdhuman.org/download.html]. I have provided the YOLO format labels in the `CrowdHumanHead/labels.zip` file. Simply unzip this file and place the contents in the `CrowdHumanHead/labels` directory.
 
 
+# Pre-trained YoloV8 Head Detection Model
+Please download the model weight from this [Google Drive URL](https://drive.google.com/file/d/1qlBmiEU4GBV13fxPhLZqjhjBbREvs8-m/view?usp=sharing). 
+
+
 # Model Inference 
 `
 python3 pred_yolo_v8.py
